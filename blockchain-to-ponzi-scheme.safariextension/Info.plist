@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Paris Buttfield-Addison</string>
+	<key>Builder Version</key>
+	<string>13604.4.7.1.6</string>
+	<key>CFBundleDisplayName</key>
+	<string>blockchain-to-ponzi-scheme</string>
+	<key>CFBundleIdentifier</key>
+	<string>au.id.paris.blockchain-to-ponzi</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>script.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Replaces "blockchain" with "ponzi scheme"</string>
+	<key>DeveloperIdentifier</key>
+	<string>5V2A4389PA</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Website</key>
+	<string>http://paris.id.au</string>
+</dict>
+</plist>
